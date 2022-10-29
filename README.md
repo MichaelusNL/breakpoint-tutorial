@@ -1,6 +1,6 @@
-## Required: visual studio code installed
+## Steps to recreate tutorial conditions:
 
-Steps to recreate tutorial conditions:
+Required: visual studio code installed
 
 1. Run 'npm i -g serve' to install the serve package
 2. Run 'serve' in the project root to run the code
