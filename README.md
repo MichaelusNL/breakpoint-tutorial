@@ -1,3 +1,5 @@
+## Required: visual studio code installed
+
 Steps to recreate tutorial conditions:
 
 1. Run 'npm i -g serve' to install the serve package
